@@ -1,0 +1,14 @@
+{
+  "name": "skill-to-job-intelligence-platform",
+  "version": "1.0.0",
+  "description": "Full-stack MERN + AI Skill-to-Job Intelligence & Readiness Platform",
+  "scripts": {
+    "dev:server": "cd server && npm start",
+    "dev:client": "cd client && npm run dev",
+    "test:server": "cd server && npm test",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": ["mern", "ai", "career", "skills", "matching", "readiness", "roadmap", "assessments"],
+  "author": "Antigravity",
+  "license": "ISC"
+}
